@@ -1,7 +1,7 @@
 package com.task.api.service;
 
 import com.task.api.model.UserModel;
-import com.task.api.respoitory.UserRepository;
+import com.task.api.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

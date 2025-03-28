@@ -4,7 +4,7 @@ import com.task.api.dto.TaskDTO;
 import com.task.api.exception.CustomException;
 import com.task.api.model.Task;
 import com.task.api.model.UserModel;
-import com.task.api.respoitory.TaskRepository;
+import com.task.api.repository.TaskRepository;
 import com.task.api.validation.TaskValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

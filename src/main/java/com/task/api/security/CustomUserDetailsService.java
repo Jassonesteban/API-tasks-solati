@@ -1,7 +1,7 @@
 package com.task.api.security;
 
 import com.task.api.model.UserModel;
-import com.task.api.respoitory.UserRepository;
+import com.task.api.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

@@ -1,4 +1,4 @@
-package com.task.api.respoitory;
+package com.task.api.repository;
 
 import com.task.api.model.Task;
 import com.task.api.model.UserModel;
